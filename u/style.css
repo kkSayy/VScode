@@ -1,0 +1,27 @@
+@font-face {
+    font-family:OneShot ;
+    src: url(Mario-Kart-DS.ttf);
+}
+*{font-family:'OneShot';}
+
+
+body{
+background-image: url(thumb-1920-902805.jpg)
+}
+
+
+
+
+
+header{
+    color: white;
+}
+
+header_ul-li{
+    color: white;
+    font-size: 25px;
+    display: inline-block
+    margin: 0 30px;
+
+
+}
